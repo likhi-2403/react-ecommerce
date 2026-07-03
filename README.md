@@ -4,15 +4,9 @@ A modern and responsive E-Commerce web application built using **React.js**. Thi
 
 ---
 
-# 🚀 Live Demo
-
-**Live URL:** https://your-vercel-url.vercel.app
-
----
-
 # 💻 GitHub Repository
 
-**GitHub:** https://github.com/your-username/react-ecommerce
+**GitHub:** https://github.com/likhi-2403/react-ecommerce
 
 ---
 
@@ -102,7 +96,7 @@ react-ecommerce
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/react-ecommerce.git
+git clone https://github.com/likhi-2403/react-ecommerce.git
 ```
 
 ### Navigate to Project Folder
